@@ -12,10 +12,10 @@ metadata:
   version: 1.3.0
   globalMemoryLimit: 2674Mi
 starterProjects:
-  - name: springbootproject
+  - name: dev-spaces-java
     git:
       remotes:
-        origin: "https://github.com/odo-devfiles/springboot-ex.git"
+        origin: "https://github.com/chriske/dev-spaces-java.git"
 components:
   - name: tools
     container:
